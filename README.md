@@ -1,3 +1,6 @@
+Thank You D1NFUCK3Rs https://github.com/D1NFUCK3Rs for scrip
+ 
+ 
  credit D1NFUCK3Rs https://github.com/D1NFUCK3Rs
  
  
@@ -13,7 +16,7 @@ Debian 8 64 bit เท่านั้น
 
 Debian8
 
-wget -O install.sh https://github.com/D1NFUCK3Rs/moth3r-debian8/blob/master/install.sh?raw=true
+wget -O install.sh https://github.com/nsuuuuz1/Debian8/blob/master/install.sh?raw=true
 chmod +x install.sh
 ./install.sh
 
@@ -24,3 +27,4 @@ Credit
 รหัสติดตั้ง scrip
 
 MOTH3R-FUCK3R
+ 
