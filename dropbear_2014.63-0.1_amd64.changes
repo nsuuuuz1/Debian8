@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 19 Feb 2014 22:54:00 +0800
+Source: dropbear
+Binary: dropbear
+Architecture: source amd64
+Version: 2014.63-0.1
+Distribution: unstable
+Urgency: low
+Maintainer: Gerrit Pape <pape@smarden.org>
+Changed-By: Matt Johnston <matt@ucc.asn.au>
+Description:
+ dropbear   - lightweight SSH2 server and client
+Changes:
+ dropbear (2014.63-0.1) unstable; urgency=low
+ .
+   * New upstream release.
+Checksums-Sha1:
+ 6f38e7bc8956255857f736dc4dda2f283fbd21d7 520 dropbear_2014.63-0.1.dsc
+ 975bfa0f3a5f40163161bdf27778ac4635732973 1832457 dropbear_2014.63-0.1.tar.gz
+ 0d6587f473b9ed25ff8ebf6eb8ecf6c15603bb55 173648 dropbear_2014.63-0.1_amd64.deb
+Checksums-Sha256:
+ 8327cffd0747dd61e4166016e8ed16ee3fbd1f62b00914877a1b81a2d4389164 520 dropbear_2014.63-0.1.dsc
+ 66d37452c058a161ea5a59bb3d21c899d14df9689706e09827f3a5709f744003 1832457 dropbear_2014.63-0.1.tar.gz
+ dac1cf79ee61b9b3325560f5c3483fe16c5f0d433712120d189273fbe9d9dab4 173648 dropbear_2014.63-0.1_amd64.deb
+Files:
+ b1566aa6eb4debde82604d6a0f6fb7b1 520 net optional dropbear_2014.63-0.1.dsc
+ 50e3c5aa6f869ad6feca69aead432d5d 1832457 net optional dropbear_2014.63-0.1.tar.gz
+ c484dd8ed7ae9de18dd7af028b4ff7f3 173648 net optional dropbear_2014.63-0.1_amd64.deb
